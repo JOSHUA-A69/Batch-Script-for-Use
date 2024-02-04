@@ -1,2 +1,2 @@
 # Batch-Script-for-Use
-Simple Batch Scripts.
+Simple Batch Scripts for use.
